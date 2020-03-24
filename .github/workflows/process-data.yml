@@ -1,0 +1,26 @@
+name: "process data"
+on:
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  process_data:
+    name: Process italian data
+    runs-on: "ubuntu-latest"
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Setup node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '10.x'
+    - name: Resolve dependencies
+      run: npm install
+    - name: Pull latest data
+      run: sh it/fetch-data.sh
+    - name: Translate data
+      run: node it/process-data.js
+    - name: Commit translated data
+      uses: stefanzweifel/git-auto-commit-action@v4.1.1
+      with:
+        commit_message: "Update data"
+        repository: .
