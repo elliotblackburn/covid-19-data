@@ -446,5 +446,19 @@
     "deseased": 8165,
     "total_cases": 80539,
     "total_tested": 361060
+  },
+  {
+    "date": "2020-03-27T17:00:00",
+    "state": "ITA",
+    "hospitalized_with_symptoms": 26029,
+    "intensive_care": 3732,
+    "total_hospitalised": 29761,
+    "home_isolation": 36653,
+    "total_currently_positive": 66414,
+    "new_currently_positive": 4401,
+    "discharged_recovered": 10950,
+    "deseased": 9134,
+    "total_cases": 86498,
+    "total_tested": 394079
   }
 ]
