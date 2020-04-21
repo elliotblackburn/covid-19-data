@@ -6,4 +6,4 @@ The translated datasets are not exhaustive, I've just started with the ones I wi
 
 ## Data
 
-* [`it/data/national-data.json`](./it/data/national-data.json) - The daily statistics for the outbreak for all of Italy.
+* [`it/data/national-data.json`](./it/data/national-data.json) - The daily statistics for the outbreak for all of Italy. Also available as a live queryable SQLite database at [https://it-national-covid-19-data.now.sh](https://it-national-covid-19-data.now.sh).
