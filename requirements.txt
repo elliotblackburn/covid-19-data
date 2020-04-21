@@ -1,0 +1,5 @@
+csvs-to-sqlite
+sqlite-utils
+datasette
+datasette-publish-now
+datasette-template-sql

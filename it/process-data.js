@@ -2,6 +2,7 @@ const mkdirp = require('mkdirp');
 const util = require('util');
 const writeFile = util.promisify(require('fs').writeFile);
 const exec = util.promisify(require('child_process').exec);
+const papaparse = require('papaparse');
 
 function process() {
     return translate_data();
@@ -19,18 +20,29 @@ function translate_data() {
 function translate_national_data(raw_data_dir, destination_dir) {
     const data_file_path = `${raw_data_dir}/dpc-covid19-ita-andamento-nazionale.json`;
     const destination_path = `${destination_dir}/national-data.json`;
+    const destination_csv = `${destination_dir}/national-data.csv`;
     const data = require(data_file_path);
 
     const translated_data = data.map(translate_national_block);
 
     const data_str = JSON.stringify(translated_data, null, 2);
-    return writeFile(destination_path, data_str);
+    return writeFile(destination_path, data_str).then(() => {
+        const csv_opts = {
+            header: true,
+            quotes: false,
+            delimiter: ","
+        };
+
+        const csv_data = papaparse.unparse(translated_data, csv_opts)
+
+        return writeFile(destination_csv, csv_data);
+    });
 }
 
 function translate_national_block(raw_data) {
     return {
-        date: raw_data.data,
         state: raw_data.stato,
+        date: raw_data.data,
         hospitalized_with_symptoms: raw_data.ricoverati_con_sintomi,
         intensive_care: raw_data.terapia_intensiva,
         total_hospitalised: raw_data.totale_ospedalizzati,

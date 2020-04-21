@@ -7,6 +7,7 @@
   "author": "Elliot Blackburn <elliot@lybrary.io>",
   "license": "GPL-2.0",
   "dependencies": {
-    "mkdirp": "^1.0.3"
+    "mkdirp": "^1.0.3",
+    "papaparse": "^5.2.0"
   }
 }
