@@ -1,7 +1,7 @@
 [
   {
-    "date": "2020-02-24T18:00:00",
     "state": "ITA",
+    "date": "2020-02-24T18:00:00",
     "hospitalized_with_symptoms": 101,
     "intensive_care": 26,
     "total_hospitalised": 127,
@@ -12,8 +12,8 @@
     "total_tested": 4324
   },
   {
-    "date": "2020-02-25T18:00:00",
     "state": "ITA",
+    "date": "2020-02-25T18:00:00",
     "hospitalized_with_symptoms": 114,
     "intensive_care": 35,
     "total_hospitalised": 150,
@@ -24,8 +24,8 @@
     "total_tested": 8623
   },
   {
-    "date": "2020-02-26T18:00:00",
     "state": "ITA",
+    "date": "2020-02-26T18:00:00",
     "hospitalized_with_symptoms": 128,
     "intensive_care": 36,
     "total_hospitalised": 164,
@@ -36,8 +36,8 @@
     "total_tested": 9587
   },
   {
-    "date": "2020-02-27T18:00:00",
     "state": "ITA",
+    "date": "2020-02-27T18:00:00",
     "hospitalized_with_symptoms": 248,
     "intensive_care": 56,
     "total_hospitalised": 304,
@@ -48,8 +48,8 @@
     "total_tested": 12014
   },
   {
-    "date": "2020-02-28T18:00:00",
     "state": "ITA",
+    "date": "2020-02-28T18:00:00",
     "hospitalized_with_symptoms": 345,
     "intensive_care": 64,
     "total_hospitalised": 409,
@@ -60,8 +60,8 @@
     "total_tested": 15695
   },
   {
-    "date": "2020-02-29T18:00:00",
     "state": "ITA",
+    "date": "2020-02-29T18:00:00",
     "hospitalized_with_symptoms": 401,
     "intensive_care": 105,
     "total_hospitalised": 506,
@@ -72,8 +72,8 @@
     "total_tested": 18661
   },
   {
-    "date": "2020-03-01T18:00:00",
     "state": "ITA",
+    "date": "2020-03-01T18:00:00",
     "hospitalized_with_symptoms": 639,
     "intensive_care": 140,
     "total_hospitalised": 779,
@@ -84,8 +84,8 @@
     "total_tested": 21127
   },
   {
-    "date": "2020-03-02T18:00:00",
     "state": "ITA",
+    "date": "2020-03-02T18:00:00",
     "hospitalized_with_symptoms": 742,
     "intensive_care": 166,
     "total_hospitalised": 908,
@@ -96,8 +96,8 @@
     "total_tested": 23345
   },
   {
-    "date": "2020-03-03T18:00:00",
     "state": "ITA",
+    "date": "2020-03-03T18:00:00",
     "hospitalized_with_symptoms": 1034,
     "intensive_care": 229,
     "total_hospitalised": 1263,
@@ -108,8 +108,8 @@
     "total_tested": 25856
   },
   {
-    "date": "2020-03-04T18:00:00",
     "state": "ITA",
+    "date": "2020-03-04T18:00:00",
     "hospitalized_with_symptoms": 1346,
     "intensive_care": 295,
     "total_hospitalised": 1641,
@@ -120,8 +120,8 @@
     "total_tested": 29837
   },
   {
-    "date": "2020-03-05T18:00:00",
     "state": "ITA",
+    "date": "2020-03-05T18:00:00",
     "hospitalized_with_symptoms": 1790,
     "intensive_care": 351,
     "total_hospitalised": 2141,
@@ -132,8 +132,8 @@
     "total_tested": 32362
   },
   {
-    "date": "2020-03-06T18:00:00",
     "state": "ITA",
+    "date": "2020-03-06T18:00:00",
     "hospitalized_with_symptoms": 2394,
     "intensive_care": 462,
     "total_hospitalised": 2856,
@@ -144,8 +144,8 @@
     "total_tested": 36359
   },
   {
-    "date": "2020-03-07T18:00:00",
     "state": "ITA",
+    "date": "2020-03-07T18:00:00",
     "hospitalized_with_symptoms": 2651,
     "intensive_care": 567,
     "total_hospitalised": 3218,
@@ -156,8 +156,8 @@
     "total_tested": 42062
   },
   {
-    "date": "2020-03-08T18:00:00",
     "state": "ITA",
+    "date": "2020-03-08T18:00:00",
     "hospitalized_with_symptoms": 3557,
     "intensive_care": 650,
     "total_hospitalised": 4207,
@@ -168,8 +168,8 @@
     "total_tested": 49937
   },
   {
-    "date": "2020-03-09T18:00:00",
     "state": "ITA",
+    "date": "2020-03-09T18:00:00",
     "hospitalized_with_symptoms": 4316,
     "intensive_care": 733,
     "total_hospitalised": 5049,
@@ -180,8 +180,8 @@
     "total_tested": 53826
   },
   {
-    "date": "2020-03-10T18:00:00",
     "state": "ITA",
+    "date": "2020-03-10T18:00:00",
     "hospitalized_with_symptoms": 5038,
     "intensive_care": 877,
     "total_hospitalised": 5915,
@@ -192,8 +192,8 @@
     "total_tested": 60761
   },
   {
-    "date": "2020-03-11T17:00:00",
     "state": "ITA",
+    "date": "2020-03-11T17:00:00",
     "hospitalized_with_symptoms": 5838,
     "intensive_care": 1028,
     "total_hospitalised": 6866,
@@ -204,8 +204,8 @@
     "total_tested": 73154
   },
   {
-    "date": "2020-03-12T17:00:00",
     "state": "ITA",
+    "date": "2020-03-12T17:00:00",
     "hospitalized_with_symptoms": 6650,
     "intensive_care": 1153,
     "total_hospitalised": 7803,
@@ -216,8 +216,8 @@
     "total_tested": 86011
   },
   {
-    "date": "2020-03-13T17:00:00",
     "state": "ITA",
+    "date": "2020-03-13T17:00:00",
     "hospitalized_with_symptoms": 7426,
     "intensive_care": 1328,
     "total_hospitalised": 8754,
@@ -228,8 +228,8 @@
     "total_tested": 97488
   },
   {
-    "date": "2020-03-14T17:00:00",
     "state": "ITA",
+    "date": "2020-03-14T17:00:00",
     "hospitalized_with_symptoms": 8372,
     "intensive_care": 1518,
     "total_hospitalised": 9890,
@@ -240,8 +240,8 @@
     "total_tested": 109170
   },
   {
-    "date": "2020-03-15T17:00:00",
     "state": "ITA",
+    "date": "2020-03-15T17:00:00",
     "hospitalized_with_symptoms": 9663,
     "intensive_care": 1672,
     "total_hospitalised": 11335,
@@ -252,8 +252,8 @@
     "total_tested": 124899
   },
   {
-    "date": "2020-03-16T17:00:00",
     "state": "ITA",
+    "date": "2020-03-16T17:00:00",
     "hospitalized_with_symptoms": 11025,
     "intensive_care": 1851,
     "total_hospitalised": 12876,
@@ -264,8 +264,8 @@
     "total_tested": 137962
   },
   {
-    "date": "2020-03-17T17:00:00",
     "state": "ITA",
+    "date": "2020-03-17T17:00:00",
     "hospitalized_with_symptoms": 12894,
     "intensive_care": 2060,
     "total_hospitalised": 14954,
@@ -276,8 +276,8 @@
     "total_tested": 148657
   },
   {
-    "date": "2020-03-18T17:00:00",
     "state": "ITA",
+    "date": "2020-03-18T17:00:00",
     "hospitalized_with_symptoms": 14363,
     "intensive_care": 2257,
     "total_hospitalised": 16620,
@@ -288,8 +288,8 @@
     "total_tested": 165541
   },
   {
-    "date": "2020-03-19T17:00:00",
     "state": "ITA",
+    "date": "2020-03-19T17:00:00",
     "hospitalized_with_symptoms": 15757,
     "intensive_care": 2498,
     "total_hospitalised": 18255,
@@ -300,8 +300,8 @@
     "total_tested": 182777
   },
   {
-    "date": "2020-03-20T17:00:00",
     "state": "ITA",
+    "date": "2020-03-20T17:00:00",
     "hospitalized_with_symptoms": 16020,
     "intensive_care": 2655,
     "total_hospitalised": 18675,
@@ -312,8 +312,8 @@
     "total_tested": 206886
   },
   {
-    "date": "2020-03-21T17:00:00",
     "state": "ITA",
+    "date": "2020-03-21T17:00:00",
     "hospitalized_with_symptoms": 17708,
     "intensive_care": 2857,
     "total_hospitalised": 20565,
@@ -324,8 +324,8 @@
     "total_tested": 233222
   },
   {
-    "date": "2020-03-22T17:00:00",
     "state": "ITA",
+    "date": "2020-03-22T17:00:00",
     "hospitalized_with_symptoms": 19846,
     "intensive_care": 3009,
     "total_hospitalised": 22855,
@@ -336,8 +336,8 @@
     "total_tested": 258402
   },
   {
-    "date": "2020-03-23T17:00:00",
     "state": "ITA",
+    "date": "2020-03-23T17:00:00",
     "hospitalized_with_symptoms": 20692,
     "intensive_care": 3204,
     "total_hospitalised": 23896,
@@ -348,8 +348,8 @@
     "total_tested": 275468
   },
   {
-    "date": "2020-03-24T17:00:00",
     "state": "ITA",
+    "date": "2020-03-24T17:00:00",
     "hospitalized_with_symptoms": 21937,
     "intensive_care": 3396,
     "total_hospitalised": 25333,
@@ -360,8 +360,8 @@
     "total_tested": 296964
   },
   {
-    "date": "2020-03-25T17:00:00",
     "state": "ITA",
+    "date": "2020-03-25T17:00:00",
     "hospitalized_with_symptoms": 23112,
     "intensive_care": 3489,
     "total_hospitalised": 26601,
@@ -372,8 +372,8 @@
     "total_tested": 324445
   },
   {
-    "date": "2020-03-26T17:00:00",
     "state": "ITA",
+    "date": "2020-03-26T17:00:00",
     "hospitalized_with_symptoms": 24753,
     "intensive_care": 3612,
     "total_hospitalised": 28365,
@@ -384,8 +384,8 @@
     "total_tested": 361060
   },
   {
-    "date": "2020-03-27T17:00:00",
     "state": "ITA",
+    "date": "2020-03-27T17:00:00",
     "hospitalized_with_symptoms": 26029,
     "intensive_care": 3732,
     "total_hospitalised": 29761,
@@ -396,8 +396,8 @@
     "total_tested": 394079
   },
   {
-    "date": "2020-03-28T17:00:00",
     "state": "ITA",
+    "date": "2020-03-28T17:00:00",
     "hospitalized_with_symptoms": 26676,
     "intensive_care": 3856,
     "total_hospitalised": 30532,
@@ -408,8 +408,8 @@
     "total_tested": 429526
   },
   {
-    "date": "2020-03-29T17:00:00",
     "state": "ITA",
+    "date": "2020-03-29T17:00:00",
     "hospitalized_with_symptoms": 27386,
     "intensive_care": 3906,
     "total_hospitalised": 31292,
@@ -420,8 +420,8 @@
     "total_tested": 454030
   },
   {
-    "date": "2020-03-30T17:00:00",
     "state": "ITA",
+    "date": "2020-03-30T17:00:00",
     "hospitalized_with_symptoms": 27795,
     "intensive_care": 3981,
     "total_hospitalised": 31776,
@@ -432,8 +432,8 @@
     "total_tested": 477359
   },
   {
-    "date": "2020-03-31T17:00:00",
     "state": "ITA",
+    "date": "2020-03-31T17:00:00",
     "hospitalized_with_symptoms": 28192,
     "intensive_care": 4023,
     "total_hospitalised": 32215,
@@ -444,8 +444,8 @@
     "total_tested": 506968
   },
   {
-    "date": "2020-04-01T17:00:00",
     "state": "ITA",
+    "date": "2020-04-01T17:00:00",
     "hospitalized_with_symptoms": 28403,
     "intensive_care": 4035,
     "total_hospitalised": 32438,
@@ -456,8 +456,8 @@
     "total_tested": 541423
   },
   {
-    "date": "2020-04-02T17:00:00",
     "state": "ITA",
+    "date": "2020-04-02T17:00:00",
     "hospitalized_with_symptoms": 28540,
     "intensive_care": 4053,
     "total_hospitalised": 32593,
@@ -468,8 +468,8 @@
     "total_tested": 581232
   },
   {
-    "date": "2020-04-03T17:00:00",
     "state": "ITA",
+    "date": "2020-04-03T17:00:00",
     "hospitalized_with_symptoms": 28741,
     "intensive_care": 4068,
     "total_hospitalised": 32809,
@@ -480,8 +480,8 @@
     "total_tested": 619849
   },
   {
-    "date": "2020-04-04T17:00:00",
     "state": "ITA",
+    "date": "2020-04-04T17:00:00",
     "hospitalized_with_symptoms": 29010,
     "intensive_care": 3994,
     "total_hospitalised": 33004,
@@ -492,8 +492,8 @@
     "total_tested": 657224
   },
   {
-    "date": "2020-04-05T17:00:00",
     "state": "ITA",
+    "date": "2020-04-05T17:00:00",
     "hospitalized_with_symptoms": 28949,
     "intensive_care": 3977,
     "total_hospitalised": 32926,
@@ -504,8 +504,8 @@
     "total_tested": 691461
   },
   {
-    "date": "2020-04-06T17:00:00",
     "state": "ITA",
+    "date": "2020-04-06T17:00:00",
     "hospitalized_with_symptoms": 28976,
     "intensive_care": 3898,
     "total_hospitalised": 32874,
@@ -516,8 +516,8 @@
     "total_tested": 721732
   },
   {
-    "date": "2020-04-07T17:00:00",
     "state": "ITA",
+    "date": "2020-04-07T17:00:00",
     "hospitalized_with_symptoms": 28718,
     "intensive_care": 3792,
     "total_hospitalised": 32510,
@@ -528,8 +528,8 @@
     "total_tested": 755445
   },
   {
-    "date": "2020-04-08T17:00:00",
     "state": "ITA",
+    "date": "2020-04-08T17:00:00",
     "hospitalized_with_symptoms": 28485,
     "intensive_care": 3693,
     "total_hospitalised": 32178,
@@ -540,8 +540,8 @@
     "total_tested": 807125
   },
   {
-    "date": "2020-04-09T17:00:00",
     "state": "ITA",
+    "date": "2020-04-09T17:00:00",
     "hospitalized_with_symptoms": 28399,
     "intensive_care": 3605,
     "total_hospitalised": 32004,
@@ -552,8 +552,8 @@
     "total_tested": 853369
   },
   {
-    "date": "2020-04-10T17:00:00",
     "state": "ITA",
+    "date": "2020-04-10T17:00:00",
     "hospitalized_with_symptoms": 28242,
     "intensive_care": 3497,
     "total_hospitalised": 31739,
@@ -564,8 +564,8 @@
     "total_tested": 906864
   },
   {
-    "date": "2020-04-11T17:00:00",
     "state": "ITA",
+    "date": "2020-04-11T17:00:00",
     "hospitalized_with_symptoms": 28144,
     "intensive_care": 3381,
     "total_hospitalised": 31525,
@@ -576,8 +576,8 @@
     "total_tested": 963473
   },
   {
-    "date": "2020-04-12T17:00:00",
     "state": "ITA",
+    "date": "2020-04-12T17:00:00",
     "hospitalized_with_symptoms": 27847,
     "intensive_care": 3343,
     "total_hospitalised": 31190,
@@ -588,8 +588,8 @@
     "total_tested": 1010193
   },
   {
-    "date": "2020-04-13T17:00:00",
     "state": "ITA",
+    "date": "2020-04-13T17:00:00",
     "hospitalized_with_symptoms": 28023,
     "intensive_care": 3260,
     "total_hospitalised": 31283,
@@ -600,8 +600,8 @@
     "total_tested": 1046910
   },
   {
-    "date": "2020-04-14T17:00:00",
     "state": "ITA",
+    "date": "2020-04-14T17:00:00",
     "hospitalized_with_symptoms": 28011,
     "intensive_care": 3186,
     "total_hospitalised": 31197,
@@ -612,8 +612,8 @@
     "total_tested": 1073689
   },
   {
-    "date": "2020-04-15T17:00:00",
     "state": "ITA",
+    "date": "2020-04-15T17:00:00",
     "hospitalized_with_symptoms": 27643,
     "intensive_care": 3079,
     "total_hospitalised": 30722,
@@ -624,8 +624,8 @@
     "total_tested": 1117404
   },
   {
-    "date": "2020-04-16T17:00:00",
     "state": "ITA",
+    "date": "2020-04-16T17:00:00",
     "hospitalized_with_symptoms": 26893,
     "intensive_care": 2936,
     "total_hospitalised": 29829,
@@ -636,8 +636,8 @@
     "total_tested": 1178403
   },
   {
-    "date": "2020-04-17T17:00:00",
     "state": "ITA",
+    "date": "2020-04-17T17:00:00",
     "hospitalized_with_symptoms": 25786,
     "intensive_care": 2812,
     "total_hospitalised": 28598,
@@ -648,8 +648,8 @@
     "total_tested": 1244108
   },
   {
-    "date": "2020-04-18T17:00:00",
     "state": "ITA",
+    "date": "2020-04-18T17:00:00",
     "hospitalized_with_symptoms": 25007,
     "intensive_care": 2733,
     "total_hospitalised": 27740,
@@ -660,8 +660,8 @@
     "total_tested": 1305833
   },
   {
-    "date": "2020-04-19T17:00:00",
     "state": "ITA",
+    "date": "2020-04-19T17:00:00",
     "hospitalized_with_symptoms": 25033,
     "intensive_care": 2635,
     "total_hospitalised": 27668,
@@ -672,8 +672,8 @@
     "total_tested": 1356541
   },
   {
-    "date": "2020-04-20T17:00:00",
     "state": "ITA",
+    "date": "2020-04-20T17:00:00",
     "hospitalized_with_symptoms": 24906,
     "intensive_care": 2573,
     "total_hospitalised": 27479,
@@ -684,8 +684,8 @@
     "total_tested": 1398024
   },
   {
-    "date": "2020-04-21T17:00:00",
     "state": "ITA",
+    "date": "2020-04-21T17:00:00",
     "hospitalized_with_symptoms": 24134,
     "intensive_care": 2471,
     "total_hospitalised": 26605,
