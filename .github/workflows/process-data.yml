@@ -42,8 +42,8 @@ jobs:
     - name: Convert CSV to sqlite db
       run: csvs-to-sqlite it/data/national-data.csv it/data/it-national-covid-19-data.db
     - name: Deploy Datasette using Zeit Now
-      - env:
-          NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
+      env:
+        NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
       run: |-
         datasette publish now2 it/data/it-national-covid-19-data.db \
           --token $NOW_TOKEN \
