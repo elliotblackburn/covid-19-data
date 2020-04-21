@@ -1,7 +1,7 @@
 name: "process data"
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
 jobs:
   process_data:
     name: Process italian data
