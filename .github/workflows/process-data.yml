@@ -51,10 +51,7 @@ jobs:
       env:
         NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
       run: |-
-        datasette publish now2 \
-          it/data/it-national.db \
-          uk/data/uk-national-cases.db \
-          uk/data/uk-national-deaths.db \
+        datasette publish now2 it/data/it-national.db uk/data/uk-national-cases.db uk/data/uk-national-deaths.db \
           --token $NOW_TOKEN \
           --project covid-19-datasets \
           --metadata metadata.json
