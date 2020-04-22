@@ -694,5 +694,17 @@
     "deseased": 24648,
     "total_cases": 183957,
     "total_tested": 1450150
+  },
+  {
+    "state": "ITA",
+    "date": "2020-04-22T17:00:00",
+    "hospitalized_with_symptoms": 23805,
+    "intensive_care": 2384,
+    "total_hospitalised": 26189,
+    "home_isolation": 81510,
+    "discharged_recovered": 54543,
+    "deseased": 25085,
+    "total_cases": 187327,
+    "total_tested": 1513251
   }
 ]
