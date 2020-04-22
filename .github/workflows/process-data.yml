@@ -1,7 +1,7 @@
 name: "process data"
-on: push
-  #schedule:
-  #  - cron: '0 * * * *'
+on: # push
+  schedule:
+    - cron: '0 * * * *'
 jobs:
   process_data:
     name: Process data
