@@ -1,4 +1,9 @@
 Area name,Area code,Area type,Reporting date,Daily hospital deaths,Cumulative hospital deaths
+United Kingdom,K02000001,UK,2020-04-24,684,19506
+Wales,W92000004,Nation,2020-04-24,110,751
+Scotland,S92000003,Nation,2020-04-24,58,1120
+Northern Ireland,N92000002,Nation,2020-04-24,13,263
+England,E92000001,Nation,2020-04-24,587,17372
 United Kingdom,K02000001,UK,2020-04-23,616,18738
 Wales,W92000004,Nation,2020-04-23,17,641
 Scotland,S92000003,Nation,2020-04-23,77,1062
