@@ -1,4 +1,9 @@
 Area name,Area code,Area type,Reporting date,Daily change in deaths,Cumulative deaths
+Wales,W92000004,Nation,2020-05-03,14,983
+Scotland,S92000003,Nation,2020-05-03,44,1559
+Northern Ireland,N92000002,Nation,2020-05-03,11,376
+United Kingdom,K02000001,UK,2020-05-03,315,28446
+England,E92000001,Nation,2020-05-03,246,25528
 Wales,W92000004,Nation,2020-05-02,44,969
 Scotland,S92000003,Nation,2020-05-02,40,1515
 Northern Ireland,N92000002,Nation,2020-05-02,18,365
