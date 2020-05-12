@@ -938,13 +938,13 @@
   {
     "state": "ITA",
     "date": "2020-05-12T17:00:00",
-    "hospitalized_with_symptoms": 25033,
-    "intensive_care": 2635,
-    "total_hospitalised": 27668,
-    "home_isolation": 80589,
-    "discharged_recovered": 47055,
-    "deseased": 23660,
-    "total_cases": 178972,
-    "total_tested": 1356541
+    "hospitalized_with_symptoms": 12865,
+    "intensive_care": 952,
+    "total_hospitalised": 13817,
+    "home_isolation": 67449,
+    "discharged_recovered": 109039,
+    "deseased": 30911,
+    "total_cases": 221216,
+    "total_tested": 2673655
   }
 ]
