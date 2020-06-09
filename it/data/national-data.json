@@ -1270,5 +1270,17 @@
     "deseased": 33964,
     "total_cases": 235278,
     "total_tested": 4263647
+  },
+  {
+    "state": "ITA",
+    "date": "2020-06-09T17:00:00",
+    "hospitalized_with_symptoms": 4581,
+    "intensive_care": 263,
+    "total_hospitalised": 4844,
+    "home_isolation": 28028,
+    "discharged_recovered": 168646,
+    "deseased": 34043,
+    "total_cases": 235561,
+    "total_tested": 4318650
   }
 ]
