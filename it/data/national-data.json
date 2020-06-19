@@ -1386,7 +1386,7 @@
     "intensive_care": 168,
     "total_hospitalised": 3035,
     "home_isolation": 20066,
-    "discharged_recovered": "180544",
+    "discharged_recovered": 180544,
     "deseased": 34514,
     "total_cases": 238159,
     "total_tested": 4831562
