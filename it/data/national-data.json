@@ -1750,5 +1750,17 @@
     "deseased": 35042,
     "total_cases": 244216,
     "total_tested": 6202524
+  },
+  {
+    "state": "ITA",
+    "date": "2020-07-19T17:00:00",
+    "hospitalized_with_symptoms": 743,
+    "intensive_care": 49,
+    "total_hospitalised": 792,
+    "home_isolation": 11648,
+    "discharged_recovered": 196949,
+    "deseased": 35045,
+    "total_cases": 244434,
+    "total_tested": 6238049
   }
 ]
