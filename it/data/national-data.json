@@ -2014,5 +2014,17 @@
     "deseased": 35205,
     "total_cases": 250566,
     "total_tested": 7249844
+  },
+  {
+    "state": "ITA",
+    "date": "2020-08-10T17:00:00",
+    "hospitalized_with_symptoms": 779,
+    "intensive_care": 46,
+    "total_hospitalised": 825,
+    "home_isolation": 12543,
+    "discharged_recovered": 202248,
+    "deseased": 35209,
+    "total_cases": 250825,
+    "total_tested": 7276276
   }
 ]
