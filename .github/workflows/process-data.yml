@@ -15,17 +15,6 @@ jobs:
         node-version: '10.x'
     - name: Resolve dependencies
       run: npm install
-    - name: Pull IT latest data
-      run: sh it/fetch-data.sh
-    - name: Pull UK latest data
-      run: sh uk/fetch-data.sh
-    - name: Translate data
-      run: node it/process-data.js
-    - name: Commit translated data
-      uses: stefanzweifel/git-auto-commit-action@v4.1.1
-      with:
-        commit_message: "Update data sets"
-        repository: .
     - name: Set up Python
       uses: actions/setup-python@v1
       with:
@@ -40,13 +29,34 @@ jobs:
     - name: Install Python dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install -r requirements.txt 
+        pip install in/requirements.txt
+    - name: Pull IT latest data
+      run: sh it/fetch-data.sh
+    - name: Pull UK latest data
+      run: sh uk/fetch-data.sh
+    - name: Translate data
+      run: node it/process-data.js
+    - name: Pull IN latest data
+      working-directory: ./in
+      run: python fetch-process-data.py
+    - name: Commit translated data
+      uses: stefanzweifel/git-auto-commit-action@v4.1.1
+      with:
+        commit_message: "Update data sets"
+        repository: .
     - name: Convert IT CSV to sqlite db
       run: csvs-to-sqlite it/data/national-data.csv it/data/it-national.db
     - name: Convert UK cases CSV to sqlite db
       run: csvs-to-sqlite uk/data/uk-national-cases.csv uk/data/uk-national-cases.db
     - name: Convert UK deaths CSV to sqlite db
       run: csvs-to-sqlite uk/data/uk-national-deaths.csv uk/data/uk-national-deaths.db
+    - name: Convert IN cases time series to sqlite db
+      run: csvs-to-sqlite in/data/cases_time_series.csv in/data/in-cases-timeseries.db
+    - name: Convert IN statewise to sqlite db
+      run: csvs-to-sqlite in/data/statewise.csv in/data/in-statewise.db
+    - name: Convert IN tested to sqlite.db
+      run: csvs-to-sqlite in/data/tested.csv in/data/in-tested.db
     - name: Deploy Datasette using Zeit Now
       env:
         NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
